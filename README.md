@@ -1,2 +1,2 @@
 # set-tour-website
-set tour website
+Set tour website
