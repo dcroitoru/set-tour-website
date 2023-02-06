@@ -1,0 +1,19 @@
+{
+  "name": "set-tour-website",
+  "version": "1.0.0",
+  "description": "Set tour website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcroitoru/set-tour-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcroitoru/set-tour-website/issues"
+  },
+  "homepage": "https://github.com/dcroitoru/set-tour-website#readme"
+}
