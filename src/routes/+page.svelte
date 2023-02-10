@@ -1,17 +1,24 @@
 <script>
+	import Blog from '../components/Blog.svelte';
+	import Offers from '../components/Offers.svelte';
+	import Testimonials from '../components/Testimonials.svelte';
+
 	export let data;
 
 	let items = data.items;
-	
-
 </script>
 
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
 
-<section>
-	<h1>Set tour</h1>
+<h1>Set tour</h1>
+
+<Offers />
+<Testimonials />
+<Blog />
+
+<!-- <section>
 
 	{#each data.items as item}
 		<ul>
@@ -20,4 +27,4 @@
 			</li>
 		</ul>
 	{/each}
-</section>
+</section> -->

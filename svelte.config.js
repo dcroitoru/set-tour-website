@@ -11,9 +11,7 @@ const config = {
 			fallback: null,
 			precompress: false,
 			strict: true,
-			ssr: true,
-			hydrate: false,
-			router: false
+
 		})
 	}
 };
