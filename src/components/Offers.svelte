@@ -1,10 +1,12 @@
-<section>
-	<h1>Oferte</h1>
+<section class="root">
+	<h2>
+		<div class="container">Oferte</div>
+	</h2>
 </section>
 
 <style>
-	section {
-		min-height: 200px;
-		background-color: beige;
+
+	.root {
+		min-height: 300px;
 	}
 </style>

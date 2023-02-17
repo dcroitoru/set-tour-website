@@ -1,10 +1,12 @@
-<section>
-	<h1>Blog</h1>
+<section class="root">
+	<h2>
+		<div class="container">Blog</div>
+	</h2>
 </section>
 
 <style>
-	section {
-		min-height: 200px;
-		background-color: cornsilk;
+
+	.root {
+		min-height: 300px;
 	}
 </style>

@@ -12,7 +12,9 @@
 	<title>Home</title>
 </svelte:head>
 
-<h1>Set tour</h1>
+<h1 class="h1">
+	<div class="container">Set tour</div>
+</h1>
 
 <Offers />
 <Testimonials />

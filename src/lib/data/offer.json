@@ -1,0 +1,38 @@
+[
+	{
+		"name": "hurghada",
+		"price": 530,
+		"country": "Egipt",
+		"place": "Hurghada"
+	},
+	{
+		"name": "antalya",
+		"price": 580,
+		"country": "Turcia",
+		"place": "Antalya"
+	},
+	{
+		"name": "zakynthos",
+		"price": 530,
+		"country": "Grecia",
+		"place": "Zakynthos"
+	},
+	{
+		"name": "phuket",
+		"price": 850,
+		"country": "Thailanda",
+		"place": "Phuket"
+	},
+	{
+		"name": "dubai-city",
+		"price": 630,
+		"country": "Emiratele Arabe Unite",
+		"place": "Dubai"
+	},
+	{
+		"name": "tenerife",
+		"price": 530,
+		"country": "Spania",
+		"place": "Tenerife"
+	}
+]
