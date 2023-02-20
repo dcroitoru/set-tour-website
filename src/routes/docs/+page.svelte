@@ -1,7 +1,3 @@
-<script>
-	import licenta from '$lib/images/licenta.png';
-</script>
-
 <h1>
 	<div class="container">Documente</div>
 </h1>
