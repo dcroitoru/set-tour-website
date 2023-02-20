@@ -2,24 +2,26 @@
 	<div class="container">Contact</div>
 </h1>
 
-<section class="container">
-	<div>
-		<span>
-			<h5>Eugeniu de Savoya 20 Ap. 2</h5>
-			<p>Timisoara | Timis | Romania</p>
-		</span>
+<section class="container contact-container">
+	<div class="contact">
+		<i class="fas fa-map-marker-alt" />
+		<span>Eugeniu de Savoya 20 Ap. 2 Timisoara | Timis | Romania</span>
 	</div>
-	<div>
-		<span>
-			<h5>+40787-789-296</h5>
-			<p>Luni - Vineri | 10:00 - 18.00</p>
-		</span>
+	<div class="contact">
+		<i class="fa-solid fa-clock" />
+		<span> Luni - Vineri | 10:00 - 18.00 </span>
 	</div>
-	<div>
-		<i class="fa fa-envelope-o" />
-		<span>
-			<h5>contact@set-tour.ro</h5>
-		</span>
+	<div class="contact">
+		<a href="tel:0787 789 296">
+			<i class="fas fa-phone" />
+			<span>0787-789-296</span>
+		</a>
+	</div>
+	<div class="contact">
+		<a href="mailto:contact@set-tour.ro">
+			<i class="fas fa-envelope" />
+			<span> contact@set-tour.ro </span>
+		</a>
 	</div>
 </section>
 
@@ -34,3 +36,19 @@
 		/>
 	</div>
 </section>
+
+<style>
+	.contact-container {
+		padding: 40px;
+	}
+	.contact {
+		margin: 20px;
+		font-size: 16px;
+		display: flex;
+		align-items: center;
+	}
+
+	.contact i {
+		margin-right: 18px;
+	}
+</style>

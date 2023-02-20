@@ -13,9 +13,8 @@
 </svelte:head>
 
 <h1 class="h1">
-	<div class="container">Set tour</div>
+	<div class="container">Set Tour - Travel with style</div>
 </h1>
-
 <Offers />
 <Testimonials />
 <Blog />
