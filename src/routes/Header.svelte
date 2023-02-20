@@ -1,5 +1,7 @@
 <script>
 	import logo from '$lib/images/logo-sm.png';
+
+	const getBackground = () => `background-image: url(banner4.jpg);`;
 </script>
 
 <section class="top-bar">
@@ -24,7 +26,7 @@
 	</ul>
 </section>
 
-<div class="nav-wrapper">
+<div class="nav-wrapper" style={getBackground()}>
 	<div class="nav-bg">
 		<section class="container nav-section">
 			<a href="/">
@@ -53,7 +55,7 @@
 
 <style>
 	.nav-wrapper {
-		background-image: url(banner4.jpg);
+		/* background-image: url(banner4.jpg); */
 		min-height: 300px;
 		background-size: cover;
 		background-position-y: 60%;
