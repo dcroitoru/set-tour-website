@@ -1,7 +1,7 @@
 <script>
 	import logo from '$lib/images/logo-sm.png';
 
-	const getBackground = () => `background-image: url(banner4.jpg);`;
+	const getBackground = () => `background-image: url(/banner4.jpg);`;
 </script>
 
 <section class="top-bar">
