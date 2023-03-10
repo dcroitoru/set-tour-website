@@ -1,0 +1,46 @@
+[
+	{
+		"name": "hurghada",
+		"price": 530,
+		"country": "Egipt",
+		"place": "Hurghada",
+		"title": "Hurghada",
+		"image": "hurghada"
+
+	},
+	{
+		"name": "phuket",
+		"price": 850,
+		"country": "Thailanda",
+		"place": "Phuket",
+		"title": "Thailanda - Phuket",
+		"image": "phuket"
+	},
+	{
+		"name": "exotic",
+		"price": 300,
+		"country": "Exotic",
+		"place": "Exotic",
+		"title": "Exotic - tickets only",
+		"image": "tenerife"
+	},
+	{
+		"name": "zakynthos",
+		"price": 530,
+		"country": "Grecia",
+		"place": "Zakynthos"
+	},
+
+	{
+		"name": "dubai-city",
+		"price": 630,
+		"country": "Emiratele Arabe Unite",
+		"place": "Dubai"
+	},
+	{
+		"name": "tenerife",
+		"price": 530,
+		"country": "Spania",
+		"place": "Tenerife"
+	}
+]

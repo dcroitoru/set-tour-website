@@ -1,13 +1,21 @@
-<script>
-	import offers from '$lib/data/offer.json';
-	import Offer from './Offer.svelte';
+<script lang="ts">
+	import data from '$lib/data/deals.json';
+	import Deal from './Deal.svelte';
 
-	export let data = offers.slice(0, 3);
+	// export let data = offers.slice(0, 3);
+
+	export let max: number = 0;
+	const deals = max ? data.slice(0, max) : data;
 </script>
 
 <section class="container cards">
-	{#each data as offer}
-		<Offer {offer} />
+	<!-- {#each $posts as post}
+
+	{post.title}
+	{/each} -->
+
+	{#each deals as deal}
+		<Deal {deal} />
 	{/each}
 </section>
 

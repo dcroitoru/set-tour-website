@@ -39,7 +39,7 @@
 						<a href="/">Acasa</a>
 					</li>
 					<li>
-						<a href="/offers">Oferte</a>
+						<a href="/deals">Oferte</a>
 					</li>
 					<li>
 						<a href="/blog">Blog</a>

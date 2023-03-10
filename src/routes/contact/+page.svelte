@@ -25,7 +25,7 @@
 	</div>
 </section>
 
-<section class="container">
+<section class="map-container">
 	<div class="iframe-container">
 		<iframe
 			class="responsive-iframe"
@@ -41,6 +41,12 @@
 	.contact-container {
 		padding: 40px;
 	}
+
+	.map-container {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
 	.contact {
 		margin: 20px;
 		font-size: 16px;
