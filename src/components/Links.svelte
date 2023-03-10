@@ -6,7 +6,7 @@
 	const links = [
 		{
 			text: 'Oferte',
-			url: '/offers'
+			url: '/deals'
 		},
 		{
 			text: 'Blog',

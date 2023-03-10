@@ -6,7 +6,6 @@
 		"place": "Hurghada",
 		"title": "Hurghada",
 		"image": "hurghada"
-
 	},
 	{
 		"name": "phuket",
@@ -23,24 +22,5 @@
 		"place": "Exotic",
 		"title": "Exotic - tickets only",
 		"image": "tenerife"
-	},
-	{
-		"name": "zakynthos",
-		"price": 530,
-		"country": "Grecia",
-		"place": "Zakynthos"
-	},
-
-	{
-		"name": "dubai-city",
-		"price": 630,
-		"country": "Emiratele Arabe Unite",
-		"place": "Dubai"
-	},
-	{
-		"name": "tenerife",
-		"price": 530,
-		"country": "Spania",
-		"place": "Tenerife"
 	}
 ]

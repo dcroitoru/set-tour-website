@@ -6,17 +6,10 @@
 		image: string;
 	};
 
-	console.log('page data', data);
-
 	const getImage = (deal) => {
 		const name = deal.image || deal.name;
 		return `background-image: url(/places/${name}.jpg);`;
 	};
-
-	// const getImage = (deal) => {
-	// 	const name = deal.image || deal.name;
-	// 	return `/places/${name}.jpg`;
-	// };
 </script>
 
 <h1>
